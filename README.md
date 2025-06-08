@@ -25,8 +25,9 @@ General Features:
 • Role-based user authentication (Admin, Teacher, Student)
 • Intuitive and responsive Tkinter GUI
 • Data stored and managed via CSV files or Pandas DataFrames
-• Robust input validation and error handling
---- 
+• Robust input validation and error handling 
+
+ --- 
 
 Project Structure
 
