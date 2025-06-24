@@ -21,7 +21,7 @@ A desktop application using Python Tkinter that enables administrators, teachers
 - View list of students under their supervision  
 - Secure logout functionality
 - username: guru, guru1, guru2, guru3, guru4, guru5
-- password: guru42 for all techers
+- password: guru42 for all teachers
 
 ---
 
