@@ -10,6 +10,8 @@ A desktop application using Python Tkinter that enables administrators, teachers
 - Access detailed student reports (grades, courses)  
 - Search students by ID or name  
 - Secure logout functionality  
+- username: guru
+- password: guru42
 
 ---
 
@@ -17,7 +19,9 @@ A desktop application using Python Tkinter that enables administrators, teachers
 - Assign courses to students  
 - Add/update grades for assigned courses  
 - View list of students under their supervision  
-- Secure logout functionality  
+- Secure logout functionality
+- username: guru, guru1, guru2, guru3, guru4, guru5
+- password: guru42 for all techers
 
 ---
 
@@ -42,8 +46,5 @@ A desktop application using Python Tkinter that enables administrators, teachers
 
 - `sgs_ui.py`  
   Tkinter-based frontend interfacing with the `sgs` module.
-
-- `data/` *(optional)*  
-  Directory containing CSV files used to store user, grade, and course data.
-
+  
 ---

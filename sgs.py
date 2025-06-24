@@ -39,7 +39,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 class StudentGradingSystem:
     def __init__(self):
         #admin credentials
-        self.admin = {"username": "admin", "password": "guru42"} 
+        self.admin = {"username": "guru", "password": "guru42"} 
 
         #Teacher with assigned courses
         self.teachers = {
